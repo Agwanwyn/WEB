@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-image: url("../images/footer.png");
+    background-color: #4d565d;
+    height: 89px;
+}
+
+.footer-background {
+    background-color: #232f38b3;
+    height: 89px;
+}
+
+.title {
+    padding-top: 82px;
+    font-family: "Lora";
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 51px;
+    letter-spacing: 2px;
+    color: #2e2e2e;
+    text-align: center;
+}
+
+.subtitle {
+    color: #2e2e2e;
+    font-family: "Oxygen";
+    font-size: 17px;
+    font-weight: normal;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 113px;
+}
+
+.picture {
+    width: 100%;
+}
+
+.text {
+    width: 960px;
+    color: #101315;
+    font-family: "Oxygen";
+    font-size: 24px;
+    line-height: 35px;
+    font-weight: normal;
+    margin: 140px auto 135px auto;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 240px;
+}
+
+
+.logo-link {
+    display: inline-block;
+    font-family: "Lora";
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.logo-link-header {
+    color: #2e2e2e;
+    padding: 20px 17px;
+}
+
+.logo-link-footer {
+    color: #ffffff;
+    padding: 31px 10px;
+}
+
+.nav-header {
+    display: inline-block;
+    position: absolute;
+    right: 250px;
+}
+
+.nav-footer {
+    display: inline-block;
+    position: absolute;
+    right: 240px;
+}
+
+.nav-list {
+    list-style-type: none;
+}
+
+.nav-list-item {
+    display: inline-block;
+}
+
+.nav-link-header {
+    display: inline-block;
+    font-family: "Oxygen";
+    font-weight: normal;
+    color: #2e2e2e;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+    padding: 27px 20px;
+    text-decoration: none;
+}
+
+.nav-link-footer {
+    display: inline-block;
+    font-family: "Oxygen";
+    font-weight: normal;
+    letter-spacing: 1px;
+    padding: 31px 10px;
+    font-size: 11px;
+    line-height: 26px;
+    color: #ffffffb3;
+    text-decoration: none;
+}
